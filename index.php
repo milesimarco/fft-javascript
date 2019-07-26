@@ -1,7 +1,4 @@
 <script src="https://cdn.plot.ly/plotly-1.5.0.min.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-
-<script src="http://127.0.0.1/cristini-FFT/jquery.fft.js"></script>
 
 <div id="stage"></div>
 
