@@ -4,7 +4,7 @@
 
 <?php
 
-    $handle = fopen( "2013-10-09-3e P 3D_671.hum", "r" );
+    $handle = fopen( "input.hum", "r" );
     $i = 0;
     $RX = array();
     $passo = 8;
